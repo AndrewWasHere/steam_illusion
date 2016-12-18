@@ -51,6 +51,6 @@ Available: https://www.freesound.org/people/EnjoyPA/sounds/130502/
 ## License
 
 This work is licensed under the Creative Commons Attribution-NonCommercial
-4.0 International License (CC-BY-NC 4.0). See 
+4.0 International License (CC-BY-NC 4.0). See LICENSE.txt or
 https://creativecommons.org/licenses/by-nc/4.0/ for more information.
 
