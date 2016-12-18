@@ -1,0 +1,3 @@
+#! /bin/bash
+play -q audio_illusion/rising_shepard_tone_10sec.wav repeat 3
+
